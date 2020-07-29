@@ -75,10 +75,10 @@
 <path style="fill:none;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0.000875 -0.0009375 L 27.536031 -0.0009375 " transform="matrix(1,0,0,-1,28.546,113.585)"/>
 <path style="fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M -5.204954 2.335 L 0.298952 -0.0009375 L -5.204954 -2.336875 Z M -5.204954 2.335 " transform="matrix(1,0,0,-1,56.08386,113.585)"/>
 <g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
-  <use xlink:href="#glyph0-2" x="37.859" y="121.533"/>
+  <use xlink:href="#glyph0-2" x="37.859" y="123.525"/>
 </g>
 <g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
-  <use xlink:href="#glyph2-1" x="43.11" y="123.027"/>
+  <use xlink:href="#glyph2-1" x="43.11" y="125.02"/>
 </g>
 </g>
 </svg>
