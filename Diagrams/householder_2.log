@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.5.21)  28 JUL 2020 11:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.5.21)  29 JUL 2020 09:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -522,18 +522,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./householder_2.aux) ) 
 Here is how much of TeX's memory you used:
- 14340 strings out of 480608
- 315641 string characters out of 5903630
+ 14333 strings out of 480608
+ 315531 string characters out of 5903630
  548130 words of memory out of 5000000
- 29983 multiletter control sequences out of 15000+600000
+ 29979 multiletter control sequences out of 15000+600000
  533265 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,7n,67p,429b,602s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,7n,67p,429b,596s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmr7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb>
-Output written on householder_2.pdf (1 page, 25584 bytes).
+Output written on householder_2.pdf (1 page, 25070 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  16 compressed objects within 1 object stream
