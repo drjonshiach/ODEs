@@ -7,9 +7,9 @@ The materials used to support the delivery of the unit Computational Methods in 
 [Link to download of zipped archive](https://github.com/drjonshiach/ODEs/archive/master.zip)
 
 
-### Notes (MATLAB version)
+### Notes
 
-The notes for the Runge-Kutta part of the unit can be accessed using the links below. The versions below are for MATLAB.
+The notes for the Runge-Kutta part of the unit are arranged into the following chapters.
 
 #### Initial Value Problems
 Introduction to Initial Value Problems (IVP) and using the Euler method to compute numerical solutions to first-order ODEs, higher-order ODEs and systems of first order ODEs.
